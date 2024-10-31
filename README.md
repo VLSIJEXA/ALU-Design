@@ -23,5 +23,5 @@ This project implements a 4-bit Arithmetic Logic Unit (ALU) in Verilog. The ALU 
   - Left Shift
   - Right Shift
 
-## Project Structure
+
 
